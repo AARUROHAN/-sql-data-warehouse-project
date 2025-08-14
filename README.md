@@ -37,7 +37,7 @@ These insights empower stakeholders with **key business metrics**, enabling **st
 
 ---
 
-📄 **For more details:** See [`docs/requirements.md`](docs/requirements.md)
+📄 **For more details, refer to docs/requirements.md.
 
 ---
 
